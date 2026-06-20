@@ -1,37 +1,36 @@
 [
     {
         "id": "0",
-        "title": "Rangka Web Straming Sederhana Dengan Python",
-        "description": "Jadi saya menggunakan Python Flask sebagai BackEnd dan JSON sebagai DataBase. Web ini menyediakan beberapa categori dan playlist. User akan memilih categori dan memutar video dari playlist. Admin bisa mengupload categori, playlist dan video baru beserta thumbnail dari route admin, saya tidak menyediakan keamanan karena hanya untuk eksperimen. Saya terinspirasi dari Website LK21.",
+        "title": "Web Streaming Sederhana dengan Python",
+        "description": "Saya menggunakan Python Flask sebagai backend dan JSON sebagai database. Web ini menyediakan beberapa kategori dan playlist. User dapat memilih kategori dan memutar video dari playlist yang tersedia. Admin bisa mengupload kategori, playlist, dan video baru beserta thumbnail melalui route admin. Saya tidak menambahkan sistem keamanan karena project ini hanya untuk eksperimen. Saya terinspirasi dari website LK21.",
         "image": "./Asset/StrW1PY.png",
         "link": "https://www.tiktok.com/@danttee_/video/7620713816682188040?is_from_webapp=1&sender_device=pc&web_id=7644581322715530770"
     },
     {
         "id": "1",
-        "title": "Web POS sederhana dengan JavaScript",
-        "description": "Jadi saya menggunakan JavaScript sebagai BackEnd atau Logic dari website. Web ini ada karena saya bereksperimen dengan JavaScript, cara mengakses DataBase dan memahami sistem POS.",
+        "title": "Web POS Sederhana dengan JavaScript",
+        "description": "Saya menggunakan JavaScript sebagai backend dan untuk logika utama website. Web ini saya buat karena sedang bereksperimen dengan JavaScript, cara mengakses database, dan memahami sistem POS.",
         "image": "./Asset/POSW1JS.png",
         "link": "https://www.tiktok.com/@danttee_/video/7632901658736905493?is_from_webapp=1&sender_device=pc&web_id=7644581322715530770"
     },
     {
         "id": "2",
         "title": "Web Register Sederhana dengan PHP",
-        "description": "Jadi saya menggunakan Php sebagai Backend, JSON sebagai DataBase dan Xampp untuk menjalankan file Php. Jadi logikanya User akan melihat List member IT Nerd dan bisa registrasi. Saat registrasi user di minta meng-Input nama, tingkat dan kelas. Data tersebut akan di simpan ke Json oleh Php. Data kemudian akan di loop oleh Php untuk ditampilkan di Web. Saya membuat projek ini untuk menambah pemahaman tentang cara kerja Php dan bagaimana cara mengakses DataBase dengan Php.   ",
+        "description": "Saya menggunakan PHP sebagai backend, JSON sebagai database, dan XAMPP untuk menjalankan file PHP. Logikanya, user dapat melihat daftar member IT Nerd dan melakukan registrasi. Saat registrasi, user diminta menginput nama, tingkat, dan kelas. Data tersebut akan disimpan ke file JSON oleh PHP. Data kemudian di-loop oleh PHP untuk ditampilkan di web. Saya membuat project ini untuk menambah pemahaman tentang cara kerja PHP dan cara mengakses database dengan PHP.",
         "image": "./Asset/RegW1Php.png",
         "link": "https://www.tiktok.com/@danttee_/video/7636020737500843284?is_from_webapp=1&sender_device=pc&web_id=7644581322715530770"
     },
     {
         "id":"3",
-        "title":"Menyalakan LED dengan WEB dari ESP",
-        "description":"Projek ini di buat untuk menambah pemahaman tentang cara kerja Micro Controller dan IOT. Saya membuat Esp sebagai AP(Accest Point), jadi saat masuk ke dalam wifi, user akan mendapat Notifikasi atau akses ke Web yang akan menjadi Control dari LED yang ada di ESP8266.",
+        "title":"Menyalakan LED via Web dengan ESP8266",
+        "description":"Project ini dibuat untuk menambah pemahaman tentang cara kerja microcontroller dan IoT. Saya menjadikan ESP8266 sebagai Access Point (AP). Jadi, saat user terhubung ke WiFi ESP, user akan otomatis diarahkan ke halaman web yang berfungsi sebagai kontrol untuk LED yang terpasang di ESP8266.",
         "image":"./Asset/Iot.png",
         "link":"https://www.tiktok.com/@danttee_/video/7615839500228545800?is_from_webapp=1&sender_device=pc&web_id=7644581322715530770"
-
     },
     {
         "id":"4",
-        "title":"Robot Line Follower Sederhana",
-        "description":"",
+        "title":"Simulasi Robot Line Follower Sederhana",
+        "description":"Project ini menggunakan Godot Engine sebagai game engine untuk membuat simulasi Robot Mobil Pengikut Garis. Mobil memiliki 3 sensor: kiri, tengah, dan kanan. Ketika sensor kiri menyentuh garis, mobil akan menjauh dengan cara mengubah rotasi ke kanan. Hal yang sama berlaku untuk sensor kanan. Dengan logika ini, mobil bisa berjalan lurus mengikuti garis. Sensor tengah berfungsi untuk memastikan mobil tetap berjalan selama masih mendeteksi garis.",
         "image":"./Asset/RSW1Gd.png",
         "link":"https://www.tiktok.com/@danttee_/video/7643401754075335957?is_from_webapp=1&sender_device=pc&web_id=7644581322715530770"
     }
